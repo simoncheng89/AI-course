@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shrimps YOLO
-author: [chih yee]
+author: [simoncheng89]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
